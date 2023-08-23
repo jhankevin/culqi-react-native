@@ -2,6 +2,8 @@
 
 El paquete `culqi-react-native` proporciona un componente React Native para integrar fácilmente un formulario de tarjeta de crédito compatible con Culqi en tu aplicación.
 
+![Credit card Form](./image.png)
+
 ## Instalación
 
 Instala el paquete utilizando npm o yarn:
