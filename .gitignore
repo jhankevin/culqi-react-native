@@ -1,0 +1,18 @@
+# IDEs / Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.suo
+*.user
+*.sln.docstates
+*.log
+
+# Mac specific files
+.DS_Store
+
+# Compiled  files
+*.tgz
