@@ -6,11 +6,11 @@ El paquete `culqi-react-native` proporciona un componente React Native para inte
 
 Instala el paquete utilizando npm o yarn:
 
-```bash
-	npm install culqi-react-native ``
+``bash
+	npm install culqi-react-native``
 
-```bash
-	yarn add culqi-react-native ``
+``bash
+	yarn add culqi-react-native``
 
 
 ## Ejemplo
